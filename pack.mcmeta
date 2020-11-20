@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": "lechos22's USSR Pack"
+  },
+  "language":{
+	"en_cm":{
+	  "name":"Communism English",
+	  "region":"Communism",
+	  "bidirectional":false
+	}
+  }
+}
