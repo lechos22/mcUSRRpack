@@ -261,7 +261,7 @@
   "selectServer.select": "Join labor camp",
   "selectServer.direct": "Straight to work",
   "selectServer.edit": "Edit",
-  "selectServer.delete": "Leave labor camp",
+  "selectServer.delete": "Leave camp",
   "selectServer.add": "Add labor camp",
   "selectServer.defaultName": "Labor camp",
   "selectServer.deleteQuestion": "Are you sure you want to leave this labor camp?",
